@@ -2,8 +2,8 @@
 
 Self Exercise/Exploration of Graphical User Interface in Java (Object-Oriented Programming, Assignment 3A).
 
-- **NIM:** [your NIM]
-- **Name:** [your name]
+- **NIM:** F1D02510061
+- **Name:** Jovanka Kiara Revalin Septyavanya
 
 ## About the Program
 
@@ -11,7 +11,8 @@ A simple desktop application for entering student data. The user types a student
 
 ## Screenshot
 
-![Screenshot of the application](screenshot.png)
+![Tampilan awal](screenshot1.png)
+![Setelah menambah data](screenshot2.png)
 
 ## Project Structure
 
